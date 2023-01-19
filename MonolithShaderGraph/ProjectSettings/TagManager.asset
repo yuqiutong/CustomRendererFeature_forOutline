@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Mirror
+  - Grabbed
+  - CorrectMirror
+  - CorrectMirror1
+  - CorrectMirror2
+  - CorrectMirror3
+  - CorrectMirror4
+  - destination
+  - camera
+  - boundaries
+  - MomentumFlap
+  - done
+  - sticker
+  - Moveonly
+  - UI
+  - wall
+  - Nails
+  - CN
+  - EN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - bound
+  - Water
+  - UI
+  - Reflection
+  - Plane
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ESC
+    uniqueID: 3412367835
+    locked: 0

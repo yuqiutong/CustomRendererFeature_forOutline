@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UI/StartPage.unity
+    guid: 3b5e6229fc0e60f409307899c3904ad4
+  - enabled: 1
+    path: Assets/Outline/Scenes/IntroLevelTest.unity
+    guid: fce72d96c493c6044bd52233c772f9f6
+  - enabled: 1
+    path: Assets/Outline/Scenes/timeline.unity
+    guid: 3cac1cb7dfbb71e48a55f665fda97878
+  - enabled: 1
+    path: Assets/Astronaut.unity
+    guid: 1c40b5e781865b8419f36914ba31d994
+  - enabled: 1
+    path: Assets/Outline/Scenes/Level02.unity
+    guid: faee02106eb6e7e4a8dfd8b66c12e205
+  - enabled: 1
+    path: Assets/Outline/Scenes/ThirdLevel.unity
+    guid: 972b4637f5c361f4a844bed030690437
+  - enabled: 1
+    path: Assets/UI/HandBook.unity
+    guid: 30c7cc1f316556140b43d27f4838b730
+  - enabled: 1
+    path: Assets/UI/Settings.unity
+    guid: dc633d44b63303a42b72f45bb518e853
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/graphics.unity
+    guid: d93784754da54ec4fb0f8c1059ca9d44
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/HandBook1.unity
+    guid: e1fb291facb5f0c408b4d3fe6158aac6
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/HandBook2.unity
+    guid: f2064bd7df64bf24d82eaac76ec77b86
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/HandBook3.unity
+    guid: 5831498e47a27384595530dd365de499
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/HandBook4.unity
+    guid: c2c9a8c6506fa7a488a1ea8389809f5c
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/HandBook5.unity
+    guid: 2b2d4a41e9f0fc34aa048a3772ae2d56
+  - enabled: 1
+    path: Assets/UI/HandBook pop up/HandBook6.unity
+    guid: 4556da9fdfbf9114cb197aa5b70c870f
+  - enabled: 1
+    path: Assets/UI/esc pop up/esc.unity
+    guid: 630cd1bbe4ae6c242b5978c66860e965
+  - enabled: 1
+    path: Assets/UI/esc pop up/help2.unity
+    guid: ad0fc55c58323ff40aee330818753e8e
+  - enabled: 1
+    path: Assets/UI/esc pop up/setting2.unity
+    guid: eeee0b79565c54742b8f96964f65e5fd
+  m_configObjects: {}
